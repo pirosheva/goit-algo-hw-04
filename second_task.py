@@ -11,3 +11,4 @@ def get_cats_info(path):
                     'age': int(age)
                 })
     return cats
+print(get_cats_info("test_2.txt"))
